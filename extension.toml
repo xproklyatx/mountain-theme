@@ -1,0 +1,7 @@
+id = "mountain-zed"
+name = "Mountain"
+version = "0.0.1"
+schema_version = 1
+authors = ["PROKLYAT"]
+description = "Port of Mountain theme for Zed Edittor"
+repository = "https://github.com/xproklyatx/mountain-zed"
