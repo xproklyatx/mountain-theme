@@ -50,5 +50,4 @@ Mountain is a theme inspired by the muted, atmospheric tones of Mount Fuji. This
 Issues and pull requests are welcome. If you spot an inconsistency with the original theme or a color that doesn't look right in a particular language, feel free to open an issue.
 
 ## License
-
-This project follows the licensing of the [original Mountain theme](https://github.com/mountain-theme/Mountain). See the upstream repository for details.
+This project is licensed under the MIT License. It is a port of the [original Mountain theme](https://github.com/mountain-theme/Mountain), and the original copyright notice is preserved in the [LICENSE](LICENSE) file.
