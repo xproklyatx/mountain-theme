@@ -5,7 +5,7 @@ A port of the [Mountain](https://github.com/mountain-theme/Mountain) theme for t
 ## Preview
 
 <p align="center">
-  <img src="assets/mountain-zed.png" alt="Mountain theme preview" width="800">
+  <img src="assets/mountain-theme.png" alt="Mountain theme preview" width="800">
 </p>
 
 ## Installation
@@ -22,7 +22,7 @@ A port of the [Mountain](https://github.com/mountain-theme/Mountain) theme for t
 
 1. Clone this repository:
 
-git clone https://github.com/xproklyatx/mountain-zed.git
+git clone https://github.com/xproklyatx/mountain-theme.git
 
 2. Copy the theme file(s) into your Zed themes directory.
 
